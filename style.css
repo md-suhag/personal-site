@@ -269,7 +269,14 @@ nav::after{
         width: 90%;
     }
 }
-
+.skills-container li.git::after{
+    animation-name: git;
+}
+@keyframes git {
+    to{
+        width: 70%;
+    }
+}
 .professional-experience::after{
     content: '';
     display: table;
