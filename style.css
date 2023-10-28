@@ -234,7 +234,7 @@ nav::after{
 }
 @keyframes html {
     to{
-        width: 90%;
+        width: 95%;
     }
 }
 .skills-container li.css::after{
@@ -242,7 +242,7 @@ nav::after{
 }
 @keyframes css {
     to{
-        width: 80%;
+        width: 85%;
     }
 }
 .skills-container li.bootstrap::after{
@@ -250,7 +250,7 @@ nav::after{
 }
 @keyframes bootstrap {
     to{
-        width: 70%;
+        width: 80%;
     }
 }
 .skills-container li.javascript::after{
@@ -258,7 +258,7 @@ nav::after{
 }
 @keyframes javascript {
     to{
-        width: 50%;
+        width: 80%;
     }
 }
 .skills-container li.github::after{
@@ -274,7 +274,7 @@ nav::after{
 }
 @keyframes git {
     to{
-        width: 70%;
+        width: 80%;
     }
 }
 .professional-experience::after{
